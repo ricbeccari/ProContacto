@@ -52,6 +52,10 @@ Ejercicio 5
 9.	  Case: es una pregunta, comentario o problema de un cliente.
 10.	  Article: son documentos de información. Los artículos pueden incluir información sobre el proceso o preguntas frecuentes.
 
+Diagrama
+
+![alt text](https://github.com/ricbeccari/ProContacto/blob/main/Diagrama.png)
+
 ___________________________________________________________________________
 
 Ejercicio 6
