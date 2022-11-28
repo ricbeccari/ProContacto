@@ -6,7 +6,7 @@ Este es mi primer README, esta hecho especialmente para la evaluación propuesta
 ___________________________________________________________________________
 
 ### 📜 Ejercicio 1
-   ------------------------------------------
+
 1. 	Instalar el IDE Visual Studio Code ✓
 2.	Instalar GIT y GIT Bash ✓	
 
