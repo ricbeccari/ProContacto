@@ -48,7 +48,13 @@ ___________________________________________________________________________
 
 ### 📜 Ejercicio 3
 
-1. 
+- Primer request [GET](https://github.com/ricbeccari/ProContacto/blob/main/PostMan1.png).
+
+- Request [POST](https://github.com/ricbeccari/ProContacto/blob/main/PostMan2.png).
+
+- Segundo request [GET](https://github.com/ricbeccari/ProContacto/blob/main/PostMan3.png).
+
+>La diferencia que se puede observar entre el primer y tercer request es la información que se muestra en este último luego de ser enviada en el POST del segundo punto.
 ___________________________________________________________________________
 
 ### 📜 Ejercicio 4
