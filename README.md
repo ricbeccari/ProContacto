@@ -3,6 +3,8 @@
 *Mi nombre es Ricardo Beccari, soy de Formosa, Argentina, tengo 29 años y actualmente me estoy formando como administrador de Salesforce.
 Este es mi primer README, esta hecho especialmente para la evaluación propuesta por ProContacto y espero que sea de su agrado.*
 
+> NOTA: Es mi primera vez utilizando Data Loader, tuve inconvenientes al importar el CSV ya que tenía problemas con el formato, investigue en la comunidad de Salesforce y a varias personas le sucedía lo mismo, siendo un problema del Excel al dar formato al archivo. Como se ve en los screenshots pude lograr la importación del archivo que a la vez lanzó algunos datos que no fueron subidos debido a algun error en el formato del mismo.
+
 ___________________________________________________________________________
 
 ### 📜 Ejercicio 1
