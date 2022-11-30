@@ -172,12 +172,18 @@ ___________________________________________________________________________
 
 Adjunto screenshots paso por paso.
 
-- 1. 	[Paso 1](https://github.com/ricbeccari/ProContacto/blob/main/Paso1.jpg).
+1. 	[Paso 1](https://github.com/ricbeccari/ProContacto/blob/main/Paso1.jpg).
+	
 	[Paso 2](https://github.com/ricbeccari/ProContacto/blob/main/Paso2.jpg).
+	
 	[Paso 3](https://github.com/ricbeccari/ProContacto/blob/main/Paso3.jpg).
+	
 	[Paso 4](https://github.com/ricbeccari/ProContacto/blob/main/Paso4.jpg).
+	
 	[Paso 5](https://github.com/ricbeccari/ProContacto/blob/main/Paso5.jpg).
 
-- 2.	[Success 1](https://github.com/ricbeccari/ProContacto/blob/main/Success1.jpg).
+2.	[Success 1](https://github.com/ricbeccari/ProContacto/blob/main/Success1.jpg).
+	
 	[Success 2](https://github.com/ricbeccari/ProContacto/blob/main/Success2.jpg).
+	
 	[Success 3](https://github.com/ricbeccari/ProContacto/blob/main/Success3.jpg).
